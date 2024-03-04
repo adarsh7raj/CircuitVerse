@@ -1,21 +1,21 @@
-# Contributing to Circuitverse
+# Contribuant à Circuitverse
 
-- We expect contributors to abide by our underlying [Code of Conduct](https://github.com/CircuitVerse/CircuitVerse/blob/master/code-of-conduct.md) . All discussions about this project must be respectful and harassment-free.
-- Remember that communication is the lifeblood of any Open Source project. We are all working on this together, and we are all benefiting from this software.
-- It's very easy to misunderstand one another in asynchronous, text-based conversations. When in doubt, assume everyone has the best intentions.
-- If you feel anyone has violated our Code of Conduct, you should anonymously contact the team with our abuse report form via [Slack](https://circuitverse.org/slack), necessary action will be taken by the team.
+- Nous attendons des contributeurs qu'ils respectent notre [Code de conduite](https://github.com/CircuitVerse/CircuitVerse/blob/master/code-of-conduct.md) . Toutes les discussions à propos de ce projet doivent être respectueuses et sans harcèlement.
+- Rappelez-vous que la communication est l'essence même de tout projet Open Source. Nous y travaillons tous ensemble, et nous bénéficions tous de ce logiciel.
+- Il est très facile de se mal comprendre les uns les autres dans des conversations textuelles asynchrones. En cas de doute, assumez que tout le monde a les meilleures intentions.
+- Si vous pensez que quelqu'un a enfreint notre Code de Conduite, vous devriez contacter anonymement l'équipe avec notre formulaire de signalement d'abus via [Slack](https\://circuitverse. rg/slack), les mesures nécessaires seront prises par l'équipe.
 
-## Issue label
+## Libellé du ticket
 
-Please note:  If you wanted to work on an issue, let us know by leaving a comment on the issue. If someone is already assigned or working on the issue, do not try to start working without asking in a thread. Also let us know later if you are no longer working on it.
+Remarque : Si vous voulez travailler sur un problème, faites-le nous savoir en laissant un commentaire sur le problème. Si quelqu'un est déjà assigné ou travaille sur le problème, n'essayez pas de commencer à travailler sans demander dans un fil. Faites-nous également savoir plus tard si vous ne travaillez plus dessus.
 
-- `maintainers` label are internal tasks that will be completed by a Circuitverse core team member.
-- [good first issue](https://github.com/CircuitVerse/CircuitVerse/labels/good%20first%20issue) labeled issues are meant for newer developers.
-- [feature](https://github.com/CircuitVerse/CircuitVerse/labels/%F0%9F%8C%9F%20feature) labeled issues are meant to propose new features.
-- [bugs](https://github.com/CircuitVerse/CircuitVerse/labels/%F0%9F%90%9E%20bug) labeled issues are meant to have errors in existing code base.
-- [documentation](https://github.com/CircuitVerse/CircuitVerse/labels/documentation) labeled issues are meant to have typo errors in documentation.
-- [Simulator](https://github.com/CircuitVerse/CircuitVerse/labels/simulator) issues are meant specifically in the scope of circuitverse simulator.
-- [platform](https://github.com/CircuitVerse/CircuitVerse/labels/platform) labeled issues are meant specifically in the scope of circuitverse website.
+- Le label `maintainers` sont des tâches internes qui seront complétées par un membre de l'équipe principale de Circuitvert.
+- [bon premier problème](https://github.com/CircuitVerse/CircuitVerse/labels/good%20first%20issue) les problèmes étiquetés sont destinés aux nouveaux développeurs.
+- [feature](https://github.com/CircuitVerse/CircuitVerse/labels/%F0%9F%8C%9F%20feature) les problèmes étiquetés sont destinés à proposer de nouvelles fonctionnalités.
+- [bugs](https://github.com/CircuitVerse/CircuitVerse/labels/%F0%9F%90%9E%20bug) problèmes étiquetés sont censés avoir des erreurs dans la base de code existante.
+- [documentation](https://github.com/CircuitVerse/CircuitVerse/labels/documentation) les problèmes étiquetés sont censés avoir des erreurs de frappe dans la documentation.
+- [Simulator](https://github.com/CircuitVerse/CircuitVerse/labels/simulator) les problèmes sont spécifiquement conçus dans le cadre du simulateur de circuitvers.
+- [Simulator](https://github.com/CircuitVerse/CircuitVerse/labels/platform) les problèmes sont spécifiquement conçus dans le cadre du simulateur de circuitvers.
 - `difficulty: easy` issues are usually confined to isolated areas of existing code.
 - `difficulty: medium` issues sometimes entail new features and might affect a significant area of the codebase, but aren't overly complex.
 - `difficulty: hard` issues are typically far-reaching, and might need architecture decisions during implementation. This label might also denote highly complex issues.
